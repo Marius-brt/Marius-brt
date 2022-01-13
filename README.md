@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Marius.brt</h1>
+<h1 align="center">Hi 👋, I'm Marius</h1>
 <h3 align="center">I try to code but woop woop</h3>
 
 - 🔭 I’m currently working on [WebMail](https://github.com/Marius-brt/WebMail)

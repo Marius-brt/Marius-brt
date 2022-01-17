@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **marius.brt.contact@gmail.com**
 
+- 🧙‍♂️ My NodeJs packages on [npm](https://www.npmjs.com/~marius.brt)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dribbble.com/mariusbrt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="mariusbrt" height="30" width="40" /></a>

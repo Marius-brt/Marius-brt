@@ -4,8 +4,6 @@
 
 - 📝 I have to keep coding [OneSide](https://github.com/Marius-brt/oneside-js)
 
-- 🤝 FuckLeMask.fr is now [Open Source](https://github.com/Marius-brt/Fuck-le-masque)
-
 - 📫 How to reach me **marius.brt.contact@gmail.com**
 
 - 🧙‍♂️ My NodeJs packages on [npm](https://www.npmjs.com/~marius.brt)
